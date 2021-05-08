@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>你好，我叫马兴！ on 马兴</title>
+    <link>https://mxsmxm.github.io/portfolio/</link>
+    <description>Recent content in 你好，我叫马兴！ on 马兴</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Apr 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://mxsmxm.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>kaggle 泰坦尼克案例</title>
+      <link>https://mxsmxm.github.io/portfolio/post/chapter-3/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://mxsmxm.github.io/portfolio/post/chapter-3/</guid>
+      <description>EDA 探索数据，并可视化    特征工程(数据转换与编码、提取合并特征)    建立模型预测(CatBoost、LightGBM、XGBoost、随机森林)     Github 仓库</description>
+    </item>
+    
+    <item>
+      <title>航班分析</title>
+      <link>https://mxsmxm.github.io/portfolio/post/chapter-2/</link>
+      <pubDate>Sat, 10 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://mxsmxm.github.io/portfolio/post/chapter-2/</guid>
+      <description>分析航班数据，统计延迟、准时与取消的航班数量    绘制每周航班数量折线图    探索飞行时间与飞行距离的关系    寻找离群值，使用箱线图进行可视化     Github 仓库</description>
+    </item>
+    
+    <item>
+      <title>tableau 项目</title>
+      <link>https://mxsmxm.github.io/portfolio/post/chapter-1/</link>
+      <pubDate>Fri, 09 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://mxsmxm.github.io/portfolio/post/chapter-1/</guid>
+      <description> 超市销售业绩 https://public.tableau.com/profile/mxsmxm.mxsmxm#!/vizhome/_16195715710310/sheet9 客户分析仪 https://public.tableau.com/profile/mxsmxm.mxsmxm#!/vizhome/__16195945841850/sheet4 配送分析 https://public.tableau.com/profile/mxsmxm.mxsmxm#!/vizhome/__16195950392560/sheet9 利润分析 https://public.tableau.com/profile/mxsmxm.mxsmxm#!/vizhome/__16195952628360/sheet15 退货分析 https://public.tableau.com/profile/mxsmxm.mxsmxm#!/vizhome/__16195954566850/sheet19 预测分析 https://public.tableau.com/profile/mxsmxm.mxsmxm#!/vizhome/__16195956245510/sheet24  </description>
+    </item>
+    
+    <item>
+      <title>技能</title>
+      <link>https://mxsmxm.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mxsmxm.github.io/portfolio/contact/</guid>
+      <description>  </description>
+    </item>
+    
+  </channel>
+</rss>
